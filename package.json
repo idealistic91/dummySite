@@ -1,0 +1,23 @@
+{
+  "name": "hoyerclone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idealistic91/dummySite.git"
+  },
+  "author": "Jens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idealistic91/dummySite/issues"
+  },
+  "homepage": "https://github.com/idealistic91/dummySite#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
